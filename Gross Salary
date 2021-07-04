@@ -1,0 +1,12 @@
+import java.util.scanner;
+class EmployeeSalary{
+public static void main(String[]args){
+float BS,DA,HRA,GROSS;
+HRA=150;
+DA=1350;
+Bs=1500;
+Scanner scan=new Scanner(System.in);
+GROSS=BS+HRA+DA;
+System.out.println("Gross salary is"+GROSS);
+}
+}
